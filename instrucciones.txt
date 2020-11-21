@@ -1,0 +1,6 @@
+1. crear proyecto node (npm init -y)
+2. instalar typescript (global y local)  
+---> global: npm install -g typescript (update)
+---> local: npm install typescript
+3. configurar typescript local
+ --> tsc --init 
