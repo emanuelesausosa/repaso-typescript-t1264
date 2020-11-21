@@ -1,0 +1,4 @@
+enum Foots {
+  DERECHA,
+  IZQUIERDA,
+}

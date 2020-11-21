@@ -1,0 +1,9 @@
+enum Positions {
+  PORTERO,
+  DEFENSA,
+  LATERAL_IZQ,
+  LATERAL_DER,
+  MEDIOCAMPISTA,
+  DELANTERO,
+  COACH,
+}

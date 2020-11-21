@@ -4,3 +4,7 @@
 ---> local: npm install typescript
 3. configurar typescript local
  --> tsc --init 
+
+4. modificar los scripts section en package.json
+4.1 -> build : "build": "tsc"
+4.2 -> watch: "watch": "tsc --watch"
